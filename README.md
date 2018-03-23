@@ -100,19 +100,48 @@ En esta observación de 3 días, se pudo observar los siguientes problemas:
 
 #### Entrevistas:
 
-Se realizaron 5 entrevistas a personas activas en el gimnasio Gold`s Gym de la sede de Chorrillos, las cuales respondieron las siguientes preguntas:
+Se realizaron 5 entrevistas a personas activas en el gimnasio Gold`s Gym de la sede de Chorrillos, las cuales respondieron las siguientes preguntas y a continuación un breve resumen de las respuestas:
 
 1. ¿Por que elegiste Gold´s Gym?
+    
+    Respondieron por la cercanía, variedad de máquinas,porque tiene prestigio, etc.
+
 2. ¿Cuales fueron tus principales objetivos al entrar al gimnasio?
+
+    La mayoria respondio bajar de peso y tonificar.
+
 3. ¿Sientes que te hacen un seguimiento tanto a nivel fisico como nutricional?
+
+    Los cinco entrevistados respondieron de forma unánime que no, que los instructores los dejan a la deriva, y que no se sienten guiados, asi que muchos de ellos hacen los ejercicios por su cuenta (4 de 5).
+
 4. ¿Crees que la rutina que haces es la mas eficaz para lograr tus objetivos?
+
+    3 de 5 personas respondieron que creen que si, ya que les dan una cartilla con los ejercicios que tienen que hacer de acuerdo al objetivo que quieren lograr, sin embargo, les parece tedioso usar la cartilla ya que muchas veces se ha extraviado y han demorado tiempo en encontrarla. Ademas que algunos tambien ven videos en Youtube de ejercicios y muchos son parecidas. Los 2 restantes siguen su propia rutina de entrenamiento.
+
 5. ¿Como te enteras de los horarios de clases y de los eventos del gym?
+
+    Comentaron que ponen afiches de los eventos en las paredes del gimnasio, pero que no han participado en ninguno ya que se les pasa la fecha pero que les gustaria. Y sobre los horarios de clases se enteran una vez que llegan al gimnasio que clase hay. Dos de ellos no asisten a actividades grupales, solo hacen máquinas.
+
 6. ¿Te han brindado tu plan nutricional? o Sigues un plan nutricional?
+
+    Coincidieron que a ninguno se les brindó un plan nutricional ya que tiene un costo aparte el cual es elevado y no lo han adquirido. Así que 2 de 5 no siguen ningun plan nutricional y los 3 restantes visitan blogs de nutricion o miran videos de Youtube y con eso se guían.
+
 7. ¿Haz entrado a la pagina web del gimnasio? ¿Que te parecio?
+
+    3 de 5 respondieron que si y que les pareció pobre ya que los botones de ver el horario de clases y otros más no funcionan correctamente.
+
 8. ¿Utilizas alguna app movil fitness?
-9. ¿Puedes venir todos los dias que tenias planeado al gym? Y si no es asi, ¿que haces cuando no vienes?
-10. ¿Acompañas tus ejercicios con suplementos?
-11. ¿Usarias una app movil del gimnasio para tener a la mano el horario de clases, ver tu progreso y que te brinde consejos de alimentacion?
+
+    2 personas usan app´s para mejorar su rendimiento en el gimnasio: Una app que recuerda tomar agua, otra usa JEFIT que es un app donde figuran ejercicios para realizar en el gimnasio .
+
+9. ¿Acompañas tus ejercicios con suplementos?
+
+    3 personas consumen o han consumido suplementos, 1 de ellas lo adquirió en el mismo gimnasio y las demás en otros establecimientos.
+
+10. ¿Usarias una app movil del gimnasio para tener a la mano el horario de clases, ver tu progreso y que te brinde consejos de alimentacion?
+
+    Por unanimidad respondieron que si ya que les ayudaría bastante en la ejecución de sus rutinas y a no perderse las clases o los eventos.
+
 
 ### Investigación Cuantitativa:
 
@@ -170,10 +199,111 @@ El 68.4% utiliza su celular en el gimnasio, a veces lo usan un 10.5% y no usan u
 - La mayoria usa su celular cuando entrena.
 - Los problemas encontrados fueron: Falta de información, no hay seguimiento en las rutinas y que no hay muchos trainers guiando.
 
-## Etapa de Ideación:
+*Imágenes adjuntas*:
+
+![Benchmarking](assets/images/foto1.jpg)
+![Benchmarking](assets/images/foto2.jpg)
+![Benchmarking](assets/images/foto3.jpg)
+![Benchmarking](assets/images/foto4.jpg)
+![Benchmarking](assets/images/foto5.jpg)
+
 
 ### Business Model Canvas:
  
+![Benchmarking](assets/images/BMC_Golds.png)
+
+# Etapa de Ideación y Síntesis:
+
+## User Persona:
+
+Con la información recaudada del research previa, se construye nuestra User Persona.
+
+![Benchmarking](assets/images/user-persona.png)
+
+## Problem Statement:
+
+Usamos el siguiente patrón para definir el problema.
+
+**{Mariam}** *quisiera* **saber los horarios de las actividades grupales y de los eventos para no perderse los que mas le interesan.**
+
+**{Mariam}** *necesita* **una guía de la rutina a realizar para estar motivada y saberse segura que llegará a su objetivo.**
+
+**{Mariam}** *quisiera* **tener amigos con los cuales retarse y compartir sus metas.**
+
+**{Mariam}** *necesita* **conocer su progreso personal y estar al tanto de las evaluaciones físicas.**
+
+## How might we? (HMW):
+
+¿*Cómo podríamos* dar a conocer los horarios de las actividades grupales y eventos?
+
+¿*Cómo podríamos* ofrecer una guia de rutina personalizada?
+
+¿*Cómo podríamos* que los socios tengan amigos con los cuales manterse motivados compartiendo metas y retándose?
+
+¿*Cómo podríamos* informar el progreso personal de cada socio?
+
+## What if? :
+
+¿What if si vinculamos el horario de las clases grupales y eventos a la app movil?
+
+¿What if si despues de registrarse hacemos preguntas basicas para ofrecer una guia de rutina personalizada?
+
+¿What if si creamos una comunidad de los socios Gold´s para que puedan ser amigos y compartir sus metas entre ellos?
+
+¿What if si brindamos el progreso personal segun como vayan avanzando en una seccion de menú?
+
+## Paper Prototyping:
+
+![Benchmarking](assets/images/paper-proto.png)
+
+#Testing:
+
+Se realizaron 3 testings con el Prototipado en papel, en los cuáles se identificaron las siguientes mejorías:
+
+- "Definir la sección de Rutina, ya que no se entiende con claridad."
+
+- "Me gustaría ver las actividades (horario) que más se acomoden a mí, no todas"
+
+- "Sería bueno definir que objetivo se quiere lograr, si quiero entrenar solo piernas o brazos, etc."
+
+- "Desde el inicio no sería bueno traumar con las medidas, empezar con algo motivador"
+
+# Prototipado en Alta Fidelidad
+
+Para ver el proyecto completo, dar click ---> https://marvelapp.com/project/2819886/
+
+### Algunas vistas:
+
+![Benchmarking](assets/images/marvel1.png)
+![Benchmarking](assets/images/marvel2.png)
+![Benchmarking](assets/images/marvel3.png)
+![Benchmarking](assets/images/marvel4.png)
+![Benchmarking](assets/images/marvel5.png)
+
+### Herramientas que se usaron:
+- Figma
+- Marvel
+
+### Elaborado por : 
+Claudia Zarate
+
+### Desarrollada para:
+Laboratoria Lima
+
+### Promoción: 
+2018-01
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
