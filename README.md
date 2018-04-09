@@ -1,5 +1,14 @@
 # Gold`s Gym App
 
+Es la aplicación móvil para el gimnasio Gold´s Gym, la cual ofrece una rutina personalizada según los objetivos de cada persona. Proyecto desarrollado para Laboratoria para el final del Bootcamp. 
+
+![marvel1](https://user-images.githubusercontent.com/32303175/38520276-f312a220-3c07-11e8-9ee5-c1bffae35e69.png)
+
+## Desarrollada para: 
+[(http://www.laboratoria.la/)]
+
+## Acerca del gimnasio:
+
 Gold´s Gym es la firma de gimnasios mas grande a nivel internacional, con más de 700 locales en los 5 continentes. Figuras como Arnold Schwarzenegger se entrenaron en sus instalaciones, brindándole autoridad en el mundo fitness.
 
 Es por ello que el presente proyecto consiste en la creación  de una aplicación móvil para el gimnasio Gold´s Gym con el fin de mantener una mejor relación con el usuario brindandole una atención personalizada en beneficio a mejorar la salud, conseguir un mejor fisico y sentirse bien consigo mismo.
@@ -286,9 +295,6 @@ Para ver el proyecto completo, dar click ---> https://marvelapp.com/project/2819
 
 ### Elaborado por : 
 Claudia Zarate
-
-### Desarrollada para:
-Laboratoria Lima
 
 ### Promoción: 
 2018-01
