@@ -265,7 +265,7 @@ Usamos el siguiente patrón para definir el problema.
 
 ![Benchmarking](assets/images/paper-proto.png)
 
-#Testing:
+## Testing:
 
 Se realizaron 3 testings con el Prototipado en papel, en los cuáles se identificaron las siguientes mejorías:
 
