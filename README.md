@@ -1,4 +1,4 @@
-# Gold`s Gym App
+# Golds Gym App
 
 Es la aplicación móvil para el gimnasio Gold´s Gym, la cual ofrece una rutina personalizada según los objetivos de cada persona. Proyecto desarrollado para Laboratoria para el final del Bootcamp. 
 
