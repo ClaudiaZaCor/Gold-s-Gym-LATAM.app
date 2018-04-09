@@ -277,10 +277,6 @@ Se realizaron 3 testings con el Prototipado en papel, en los cuáles se identifi
 
 - "Desde el inicio no sería bueno traumar con las medidas, empezar con algo motivador"
 
-# Prototipado en Alta Fidelidad
-
-Para ver el proyecto completo, dar click ---> https://marvelapp.com/project/2819886/
-
 ### Algunas vistas:
 
 ![Benchmarking](assets/images/marvel1.png)
