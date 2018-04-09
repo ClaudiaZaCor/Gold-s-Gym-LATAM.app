@@ -221,15 +221,15 @@ El 68.4% utiliza su celular en el gimnasio, a veces lo usan un 10.5% y no usan u
  
 ![Benchmarking](assets/images/BMC_Golds.png)
 
-# Etapa de Ideación y Síntesis:
+## Etapa de Ideación y Síntesis:
 
-## User Persona:
+### User Persona:
 
 Con la información recaudada del research previa, se construye nuestra User Persona.
 
 ![Benchmarking](assets/images/user-persona.png)
 
-## Problem Statement:
+### Problem Statement:
 
 Usamos el siguiente patrón para definir el problema.
 
@@ -241,7 +241,7 @@ Usamos el siguiente patrón para definir el problema.
 
 **{Mariam}** *necesita* **conocer su progreso personal y estar al tanto de las evaluaciones físicas.**
 
-## How might we? (HMW):
+### How might we? (HMW):
 
 ¿*Cómo podríamos* dar a conocer los horarios de las actividades grupales y eventos?
 
@@ -251,7 +251,7 @@ Usamos el siguiente patrón para definir el problema.
 
 ¿*Cómo podríamos* informar el progreso personal de cada socio?
 
-## What if? :
+### What if? :
 
 ¿What if si vinculamos el horario de las clases grupales y eventos a la app movil?
 
@@ -261,11 +261,11 @@ Usamos el siguiente patrón para definir el problema.
 
 ¿What if si brindamos el progreso personal segun como vayan avanzando en una seccion de menú?
 
-## Paper Prototyping:
+### Paper Prototyping:
 
 ![Benchmarking](assets/images/paper-proto.png)
 
-## Testing:
+### Testing:
 
 Se realizaron 3 testings con el Prototipado en papel, en los cuáles se identificaron las siguientes mejorías:
 
